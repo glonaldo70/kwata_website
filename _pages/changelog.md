@@ -5,61 +5,47 @@ include_in_header: false
 ---
 
 # Changelog
+
 Here you can keep a changelog for your app. Edit the markdown based CHANGELOG.md which is located in the _pages directory. The changelog below is simply an example changelog that serves to exemplify how the markdown can be used. You can be as creative as you want with the markdown.
 
-<br>
+## `Latest`
 
-### `Latest`
-# **Version 2.0**
-This is the first update to our app. Jeez **goodness** by kept more sensually a much far proper exotically precise [here is a link](https://www.google.com) and and illicit hey uninspiring the more sat honey knelt before before bearish bowed lorikeet wolf grandly instead diligently and rhinoceros imperative.
+### **Version 1.0.0 - Professional E-commerce Evolution**
+
+Major update focused on professionalizing the user experience and aligning terminology with e-commerce standards. The application has undergone a complete textual overhaul to provide clearer, more reassuring, and commercially oriented guidance for both buyers and sellers.
+
+#### Key Improvements
+
+- **Professional Terminology**: Transitioned from generic terms to specific e-commerce vocabulary (e.g., "Grand Marché" → "Mode Acheteur", "Porte-points" → "Portefeuille de Crédits").
+- **Enhanced User Guidance**: Rewrote instructional texts in onboarding, product creation, and search flows to be more directive and helpful.
+- **Clearer Value Propositions**: Improved descriptions for becoming a seller ("Vendeur Kwata") and the benefits of the platform.
+- **Standardized UI Text**: Harmonized labels for buttons, dialogs, and form fields across the app (Sign Up, Login, Settings, Delivery).
+
+#### Detailed Changes
+
+- **Authentication**: Clearer "Sign Up" and "Login" flows with professional welcome messages.
+- **Navigation**: Renamed menu items for better clarity ("Paramètres & Ressources", "Centre d'Assistance").
+- **Marketplace Features**:
+  - "Photos du Produit" instead of "Illustrations".
+  - "Spécifications" instead of "Exigeances".
+  - "Tarification" instead of "Prix".
+  - "Délai de Réception" instead of "Temps d'attente".
+- **Legal & Trust**: Updated "Conditions Générales d'Utilisation" and added clear warnings about account suspension for non-compliance.
+
+## `Previous`
+
+### **Version 0.9.1**
+
+- **kwata_mobile**: Currently in active development, focusing on user authentication and profile management features.
+- **kwata_dashboard**: Beta testing phase with select users to gather feedback on data visualization widgets.
+- **kwata_bombo_siglip_v1**: Initial model training complete; currently undergoing validation and performance tuning on the test dataset.
 
 #### What's New
+
 - Much far proper exotically precise unaccountable.
 - [Changes to Privacy Policy](/privacypolicy)
 
 #### Bug Fixes
+
 - Much far proper exotically precise unaccountable.
 - [Changes to Privacy Policy](/privacypolicy)
-
-<br>
-
-### **Version 2.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
-
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-
-<br>
-
-________
-<br>
-
-### `Initial Release`
-# **Version 1.0**
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh divisively wherever because jeepers until since as that goodness roadrunner insanely belated physic jeepers hey jeepers much the beside steadfastly up toward indubitably this goodness playful.
-
-<br>
-
-## **Version 1.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
-
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-
-<br>
-
-## Version 1.0.1
-That wow robin one and gosh audibly darn that variously less across softly awakened under affectingly wildebeest from jeepers far contemplated and indisputably clung jeepers much mistaken some after mumbled hey certain neatly far alas more trod the swelled rolled permissively so save pert the tapir paradoxical off so then juggled crud a however overslept vehemently kept indisputably anteater walked alas or into.
-
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-
-#### Bug Fixes
-- Improved user sign up experience.
-- Unlike deliberately zebra hen oh jeez understandable. Alas and quit oh snooty unlike deliberately.
-
-<br>
